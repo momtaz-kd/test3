@@ -1,2 +1,2 @@
 feature 1
-first change on the remote repo 
+second change on the remote repo 
